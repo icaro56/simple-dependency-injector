@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/icaro56/simple-dependency-injector/compare/v1.0.0...v1.0.1) (2025-11-27)
+
+
+### Bug Fixes
+
+* update readme pdf ([2e0a7d5](https://github.com/icaro56/simple-dependency-injector/commit/2e0a7d5ab899a1ece60b8e5e7eea4e93f24b3c1f))
+
 # 1.0.0 (2025-11-27)
 
 
