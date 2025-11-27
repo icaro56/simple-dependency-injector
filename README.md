@@ -26,7 +26,7 @@ In your Unity Project, open the Package Manager window, click on + Add git repos
 - **https://github.com/icaro56/simple-dependency-injector.git#upm**
 
 Case you want to use a specific version, use the follow url changing the version:
-- **https://github.com/icaro56/simple-dependency-injector.git#upm/v1.0.0**
+- **https://github.com/icaro56/simple-dependency-injector.git#upm/v1.0.1**
 
 
 ## How to work Simple Dependency Injector lib
