@@ -1,0 +1,24 @@
+{
+  "name": "com.icaro.simple-dependency-injector",
+  "version": "1.0.0",
+  "displayName": "Simple Dependency Injector",
+  "description": "Use Simple Dependency Injector to do dependency injection in a game project",
+  "unity": "2020.1",
+  "samples": [
+    {
+      "displayName": "How to Use Sample",
+      "description": "This sample shows how to use Simple Dependency Injection",
+      "path": "Samples~/Example1"
+    }
+  ],
+  "keywords": [
+    "di",
+    "dependency injector",
+    "dependency injection"
+  ],
+  "author": {
+    "name": "Icaro's codes",
+    "email": "icarogoulart@yahoo.com.br",
+    "url": "https://icaro56.github.io/"
+  }
+}
