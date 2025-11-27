@@ -4,9 +4,9 @@
     ["@semantic-release/commit-analyzer", { "preset": "angular" }],
     "@semantic-release/release-notes-generator",
     ["@semantic-release/changelog", { "preset": "angular" }],
-    ["@semantic-release/npm", { "npmPublish": false, "pkgRoot": "Packages/simple-dependency-injector" }],
+    ["@semantic-release/npm", { "npmPublish": false, "pkgRoot": "Packages/com.icaro.simple-dependency-injector" }],
     ["@semantic-release/git", {
-      "assets": ["Packages/simple-dependency-injector/package.json", "CHANGELOG.md"],
+      "assets": ["Packages/com.icaro.simple-dependency-injector/package.json", "CHANGELOG.md"],
       "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
     }],
     "@semantic-release/github"
