@@ -1,0 +1,18 @@
+{
+    "name": "Sample1AssemblyDefinition",
+    "rootNamespace": "",
+    "references": [
+        "GUID:25fcff919d38ae04b81a9a28367d2e75",
+        "GUID:84cdd938a9f9f4f69846c3c985def41a",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

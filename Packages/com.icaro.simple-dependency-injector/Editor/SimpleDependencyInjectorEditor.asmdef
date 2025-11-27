@@ -1,0 +1,18 @@
+{
+    "name": "SimpleDependencyInjectorEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:84cdd938a9f9f4f69846c3c985def41a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
