@@ -172,7 +172,7 @@ Testing with Simple Dependency Injector is straightforward.
 Because injected services use the Injected<T> wrapper, you can easily assign mock or fake implementations during unit tests without requiring a scene or the actual DependencyInjector component.
 
 To keep things simple, this repository already includes a complete example demonstrating how to test a class that uses injected services.
-[Example Test](Tests/ExampleUserLabelTest.cs)
+[Example Test](https://github.com/icaro56/simple-dependency-injector/tree/main/Packages/com.icaro.simple-dependency-injector/Samples/Example1/Scripts/Tests)
 
 ## Examples
 In the Simple Atom project, there are examples in the scene folder:
