@@ -1,6 +1,6 @@
 {
   "name": "com.icaro.simple-dependency-injector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Simple Dependency Injector",
   "description": "Use Simple Dependency Injector to do dependency injection in a game project",
   "unity": "2020.1",
